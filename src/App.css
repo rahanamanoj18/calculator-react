@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+  }
+  .grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  }
+  .grid2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+  .grid3{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+  .grid4{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
